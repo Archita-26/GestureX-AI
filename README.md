@@ -1,4 +1,3 @@
-
 # GestureX AI
 
 GestureX AI is an AI-powered touchless virtual mouse system that enables users to control computer functions using real-time hand gestures. The system utilizes Computer Vision and Machine Learning techniques with OpenCV and MediaPipe to detect, track, and recognize hand movements through a webcam.
@@ -18,7 +17,7 @@ _click on dropdown to know more_ <br>
 <details>
 <summary>Neutral Gesture</summary>
  <figure>
-  <img src="https://github.com/xenon-19/Gesture_Controller/blob/9be82cfc75aa4c04fff0e12dd4de853f9d83a101/demo_media/palm.gif" alt="Palm" width="711" height="400"><br>
+  <video src="https://github.com/Archita-26/GestureX-AI/raw/refs/heads/master/demo_media/Palm.mp4" alt="Palm" width="711" height="400" autoplay loop muted playsinline></video><br>
   <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
 </figure>
 </details>
@@ -65,22 +64,14 @@ _click on dropdown to know more_ <br>
  <figcaption>Gesture to select multiple items</figcaption>
 </details>
 
-
-
-
-
-
-
 ## Getting Started
-### Procedure
 
+### Procedure
 
 ### Step 1: Clone the Repository
 
-
 git clone https://github.com/Archita-26/GestureX-AI.git
 cd GestureX-AI
-
 
 ### Step 2: Verify Python Installation
 
@@ -126,20 +117,20 @@ python gesturex_controller.py
 
 ### Step 6: Start Using Hand Gestures
 
-* Allow webcam access.
-* Keep your hand visible in front of the camera.
-* Ensure proper lighting conditions.
-* Use supported hand gestures to control the mouse cursor.
+- Allow webcam access.
+- Keep your hand visible in front of the camera.
+- Ensure proper lighting conditions.
+- Use supported hand gestures to control the mouse cursor.
 
 ### Requirements
 
-* Python 3.12
-* Webcam
-* Windows Operating System
-* OpenCV
-* MediaPipe
-* NumPy
-* PyAutoGUI
+- Python 3.12
+- Webcam
+- Windows Operating System
+- OpenCV
+- MediaPipe
+- NumPy
+- PyAutoGUI
 
 ```
 
@@ -148,47 +139,43 @@ python gesturex_controller.py
 For best performance, ensure proper lighting conditions and keep your hand clearly visible to the webcam.
 ```
 
-
 ## Future Enhancements
 
 The following features are planned for future development and optimization:
 
-* Voice Assistant Integration
-* Voice-Based Application Control
-* Enhanced Gesture Accuracy and Recognition
-* Additional Custom Gesture Support
-* AI-Powered User Interaction Features
-* Improved Cross-Platform Compatibility
-* Advanced Accessibility Features
-* Gesture-Based File and System Management
+- Voice Assistant Integration
+- Voice-Based Application Control
+- Enhanced Gesture Accuracy and Recognition
+- Additional Custom Gesture Support
+- AI-Powered User Interaction Features
+- Improved Cross-Platform Compatibility
+- Advanced Accessibility Features
+- Gesture-Based File and System Management
 
 These features are currently under development and will be included in future versions of GestureX AI.
-
 
 ## Collaborators
 
 ### Archita Temre
 
-* GitHub: https://github.com/Archita-26
-* Email: [architatemre2610@gmail.com](mailto:architatemre2610@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/archita-temre-92b131340/y
+- GitHub: https://github.com/Archita-26
+- Email: [architatemre2610@gmail.com](mailto:architatemre2610@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/archita-temre-92b131340/y
 
 ### Abhijeet Sharma
 
-* GitHub: https://github.com/abhijeetsharma77
-* Email: [abhijeetsharmash@gmail.com](mailto:abhijeetsharmash@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/abhijeet-sharma-05328433a
-
+- GitHub: https://github.com/abhijeetsharma77
+- Email: [abhijeetsharmash@gmail.com](mailto:abhijeetsharmash@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/abhijeet-sharma-05328433a
 
 ### Jatin Aserkar
 
-* GitHub: https://github.com/jatinaserkar
-* Email: [jatinaserkar10a@gmail.com](mailto:jatinaserkar10a@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/jatin-aserkar-77688328b
-
+- GitHub: https://github.com/jatinaserkar
+- Email: [jatinaserkar10a@gmail.com](mailto:jatinaserkar10a@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/jatin-aserkar-77688328b
 
 ### Himanshu Jain
 
-* GitHub: https://github.com/jn-himanshu07
-* Email: [Himanshujan0703@gmail.com](mailto:Himanshujan0703@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/himanshu-jain-547666327
+- GitHub: https://github.com/jn-himanshu07
+- Email: [Himanshujan0703@gmail.com](mailto:Himanshujan0703@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/himanshu-jain-547666327
