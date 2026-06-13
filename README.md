@@ -16,66 +16,74 @@ _click on dropdown to know more_ <br>
 
 <details>
 <summary>Neutral Gesture</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Palm.mp4" alt="Palm" width="711" height="400"><br>
-  <figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Palm.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Neutral Gesture. Used to halt/stop execution of current gesture.</figcaption>
+
 </details>
 
 <details>
 <summary>Move Cursor</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Cursor_movement%20.mp4" alt="Move Cursor" width="711" height="400"><br>
-  <figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Cursor_movement%20.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Cursor is assigned to the midpoint of index and middle fingertips. This gesture moves the cursor to the desired location. Speed of the cursor movement is proportional to the speed of hand.</figcaption>
+
 </details>
 
 <details>
 <summary>Left Click</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Left_click.mp4" alt="Left Click" width="711" height="400"><br>
-  <figcaption>Gesture for single left click</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Left_click.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Gesture for single left click</figcaption>
+
 </details>
 
 <details>
 <summary>Right Click</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Right_click.mp4" alt="Right Click" width="711" height="400"><br>
-  <figcaption>Gesture for single right click</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Right_click.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Gesture for single right click</figcaption>
+
 </details>
 
 <details>
 <summary>Double Click</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Double_click.mp4" alt="Double Click" width="711" height="400"><br>
-  <figcaption>Gesture for double click</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Double_click.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Gesture for double click</figcaption>
+
 </details>
 
 <details>
 <summary>Scrolling</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Scrolling%20.mp4" alt="Scrolling" width="711" height="400"><br>
-  <figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Scrolling%20.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Dynamic Gestures for horizontal and vertical scroll. The speed of scroll is proportional to the distance moved by pinch gesture from start point. Vertical and Horizontal scrolls are controlled by vertical and horizontal pinch movements respectively.</figcaption>
+
 </details>
 
 <details>
 <summary>Drag and Drop</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Drag_and_drop.mp4" alt="Drag and Drop" width="711" height="400"><br>
-  <figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Drag_and_drop.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.</figcaption>
+
 </details>
 
 <details>
 <summary>Multiple Item Selection</summary>
-<figure>
-  <img src="https://github.com/Archita-26/GestureX-AI/blob/master/demo_media/Multiple_item_selection.mp4" alt="Multiple Item Selection" width="711" height="400"><br>
-  <figcaption>Gesture to select multiple items</figcaption>
-</figure>
+
+<video src="https://github.com/Archita-26/GestureX-AI/raw/master/demo_media/Multiple_item_selection.mp4" width="711" autoplay loop muted playsinline></video><br>
+
+<figcaption>Gesture to select multiple items</figcaption>
+
 </details>
 
 ## Getting Started
